@@ -28,7 +28,9 @@
 
 [无线网络](https://github.com/ztianming/Inner-Mongolia-University/tree/master/College%20of%20Computer%20Science/%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C)  
 [高级软件工程](https://github.com/ztianming/Inner-Mongolia-University/tree/master/College%20of%20Computer%20Science/%E9%AB%98%E7%BA%A7%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)  
-[]()
+
+
+[开题报告提纲](https://github.com/ztianming/Inner-Mongolia-University/blob/master/College%20of%20Computer%20Science/ThesisProposal.md)
 []()
 []()
 []()
