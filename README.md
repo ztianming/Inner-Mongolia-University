@@ -17,7 +17,6 @@
 [应用数学](https://github.com/ztianming/Inner-Mongolia-University/tree/master/College%20of%20Computer%20Science/%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6)  
 [数据挖掘](https://github.com/ztianming/Inner-Mongolia-University/tree/master/College%20of%20Computer%20Science/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98)  
 [算法设计与分析](https://github.com/ztianming/Inner-Mongolia-University/tree/master/College%20of%20Computer%20Science/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1)  
-
 [无线网络](https://github.com/ztianming/Inner-Mongolia-University/tree/master/College%20of%20Computer%20Science/%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C)  
 [高级软件工程](https://github.com/ztianming/Inner-Mongolia-University/tree/master/College%20of%20Computer%20Science/%E9%AB%98%E7%BA%A7%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)  
 
