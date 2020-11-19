@@ -17,6 +17,7 @@
 1. 提交 PR：Fork 本项目，然后在 GitHub 网页端点击 Upload File 上传文件，发起 PR 即可。留意一下项目的文件组织。
 
 ## College of Computer Science 计算机学院
+部分课程总结如下：  
 [人工智能](https://github.com/ztianming/Inner-Mongolia-University/tree/master/College%20of%20Computer%20Science/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD)  
 [信息安全](https://github.com/ztianming/Inner-Mongolia-University/tree/master/College%20of%20Computer%20Science/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8)  
 [分布式计算](https://github.com/ztianming/Inner-Mongolia-University/tree/master/College%20of%20Computer%20Science/%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97)  
